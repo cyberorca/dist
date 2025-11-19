@@ -1,42 +1,42 @@
 {
   "main.js": {
-    "path": "/KLYCreative.1.5.0.umd.js",
+    "path": "/KLYCreative.1.6.0.umd.js",
     "chunk": "initial"
   },
   "newstag.js": {
-    "path": "/KLYCreative.newstag.1.5.0.bf0c0533a1d68333297e.js",
+    "path": "/KLYCreative.newstag.1.6.0.d939c9fcdeec5c269841.js",
     "chunk": "chunk"
   },
   "skinad.js": {
-    "path": "/KLYCreative.skinad.1.5.0.6e2411552bf8da32380e.js",
+    "path": "/KLYCreative.skinad.1.6.0.1b557a0dfae7affd8a7d.js",
     "chunk": "chunk"
   },
   "advertorialEmbed.js": {
-    "path": "/KLYCreative.advertorialEmbed.1.5.0.f26f6503b6252c6d4c55.js",
+    "path": "/KLYCreative.advertorialEmbed.1.6.0.be7a0207e10086fa9618.js",
     "chunk": "chunk"
   },
   "floatingPin.js": {
-    "path": "/KLYCreative.floatingPin.1.5.0.8a12544fb55454990f7d.js",
+    "path": "/KLYCreative.floatingPin.1.6.0.f459ae82de674551a4d5.js",
     "chunk": "chunk"
   },
-  "KLYCreative.1.5.0.umd.js.map": {
-    "path": "/KLYCreative.1.5.0.umd.js.map",
+  "KLYCreative.1.6.0.umd.js.map": {
+    "path": "/KLYCreative.1.6.0.umd.js.map",
     "chunk": "chunk"
   },
-  "KLYCreative.newstag.1.5.0.js.map": {
-    "path": "/KLYCreative.newstag.1.5.0.bf0c0533a1d68333297e.js.map",
+  "KLYCreative.newstag.1.6.0.js.map": {
+    "path": "/KLYCreative.newstag.1.6.0.d939c9fcdeec5c269841.js.map",
     "chunk": "chunk"
   },
-  "KLYCreative.skinad.1.5.0.js.map": {
-    "path": "/KLYCreative.skinad.1.5.0.6e2411552bf8da32380e.js.map",
+  "KLYCreative.skinad.1.6.0.js.map": {
+    "path": "/KLYCreative.skinad.1.6.0.1b557a0dfae7affd8a7d.js.map",
     "chunk": "chunk"
   },
-  "KLYCreative.advertorialEmbed.1.5.0.js.map": {
-    "path": "/KLYCreative.advertorialEmbed.1.5.0.f26f6503b6252c6d4c55.js.map",
+  "KLYCreative.advertorialEmbed.1.6.0.js.map": {
+    "path": "/KLYCreative.advertorialEmbed.1.6.0.be7a0207e10086fa9618.js.map",
     "chunk": "chunk"
   },
-  "KLYCreative.floatingPin.1.5.0.js.map": {
-    "path": "/KLYCreative.floatingPin.1.5.0.8a12544fb55454990f7d.js.map",
+  "KLYCreative.floatingPin.1.6.0.js.map": {
+    "path": "/KLYCreative.floatingPin.1.6.0.f459ae82de674551a4d5.js.map",
     "chunk": "chunk"
   }
 }
