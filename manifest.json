@@ -16,7 +16,7 @@
     "chunk": "chunk"
   },
   "floatingPin.js": {
-    "path": "/KLYCreative.floatingPin.1.2.0.1d83087fe6f368a2ef9f.js",
+    "path": "/KLYCreative.floatingPin.1.2.0.c17d2d3b2cf8c8d8085f.js",
     "chunk": "chunk"
   },
   "KLYCreative.1.2.0.umd.js.map": {
@@ -33,6 +33,10 @@
   },
   "KLYCreative.advertorialEmbed.1.2.0.js.map": {
     "path": "/KLYCreative.advertorialEmbed.1.2.0.1e9e3c097b4553099ba3.js.map",
+    "chunk": "chunk"
+  },
+  "KLYCreative.floatingPin.1.2.0.js.map": {
+    "path": "/KLYCreative.floatingPin.1.2.0.c17d2d3b2cf8c8d8085f.js.map",
     "chunk": "chunk"
   }
 }
