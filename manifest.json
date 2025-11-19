@@ -1,0 +1,38 @@
+{
+  "main.js": {
+    "path": "/KLYCreative.1.1.0.umd.js",
+    "chunk": "initial"
+  },
+  "newstag.js": {
+    "path": "/KLYCreative.newstag.1.1.0.c8daef567e74eb71639c.js",
+    "chunk": "chunk"
+  },
+  "skinad.js": {
+    "path": "/KLYCreative.skinad.1.1.0.963c49a205a57cf96a0e.js",
+    "chunk": "chunk"
+  },
+  "advertorialEmbed.js": {
+    "path": "/KLYCreative.advertorialEmbed.1.1.0.823e58aaecedd5a11bf4.js",
+    "chunk": "chunk"
+  },
+  "floatingPin.js": {
+    "path": "/KLYCreative.floatingPin.1.1.0.1d83087fe6f368a2ef9f.js",
+    "chunk": "chunk"
+  },
+  "KLYCreative.1.1.0.umd.js.map": {
+    "path": "/KLYCreative.1.1.0.umd.js.map",
+    "chunk": "chunk"
+  },
+  "KLYCreative.newstag.1.1.0.js.map": {
+    "path": "/KLYCreative.newstag.1.1.0.c8daef567e74eb71639c.js.map",
+    "chunk": "chunk"
+  },
+  "KLYCreative.skinad.1.1.0.js.map": {
+    "path": "/KLYCreative.skinad.1.1.0.963c49a205a57cf96a0e.js.map",
+    "chunk": "chunk"
+  },
+  "KLYCreative.advertorialEmbed.1.1.0.js.map": {
+    "path": "/KLYCreative.advertorialEmbed.1.1.0.823e58aaecedd5a11bf4.js.map",
+    "chunk": "chunk"
+  }
+}
