@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit dist to repo
         run: |
-          git config --global user.email "bot@example.com"
-          git config --global user.name "build-bot"
+          git config --global user.email "cyberorca@gmail.com"
+          git config --global user.name "orc4-bot"
           git add dist
           git commit -m "Update dist" || echo "No changes"
           git push
