@@ -1,6 +1,6 @@
 {
   "main.js": {
-    "path": "/KLYCreative.1.6.0.umd.js",
+    "path": "/KLYCreative.umd.js",
     "chunk": "initial"
   },
   "newstag.js": {
@@ -19,8 +19,8 @@
     "path": "/KLYCreative.floatingPin.1.6.0.f459ae82de674551a4d5.js",
     "chunk": "chunk"
   },
-  "KLYCreative.1.6.0.umd.js.map": {
-    "path": "/KLYCreative.1.6.0.umd.js.map",
+  "KLYCreative.umd.js.map": {
+    "path": "/KLYCreative.umd.js.map",
     "chunk": "chunk"
   },
   "KLYCreative.newstag.1.6.0.js.map": {
