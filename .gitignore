@@ -1,0 +1,8 @@
+# Ignore everything inside this submodule
+*
+
+# But keep the .gitignore so the folder stays valid
+!.gitignore
+
+# But also keep anything you really need (optional)
+!.git
